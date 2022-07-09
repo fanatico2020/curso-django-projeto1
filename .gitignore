@@ -1,0 +1,7 @@
+#Pasta para ignorar
+venv
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
